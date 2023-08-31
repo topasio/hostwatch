@@ -1,0 +1,4 @@
+export CENSYS_API_ID=
+export CENSYS_API_SECRET=
+targets="ip:name"
+email="info@example.com"
